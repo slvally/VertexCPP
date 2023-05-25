@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1632648624 source:d:\programming\codeblocks\cg2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1634227901 source:d:\programming\codeblocks\cg2\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+
+1632648624 source:d:\programming\codeblocks\retangle\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1634463542 source:d:\programming\codeblocks\retangle\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+
+1632775276 source:d:\programming\codeblocks\camerap2me\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1639824478 source:d:\programming\codeblocks\camerap2me\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<learnopengl/shader_m.h>
+	<stb_image.h>
+	<iostream>
+
